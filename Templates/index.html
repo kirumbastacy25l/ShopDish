@@ -6,6 +6,24 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Homepage</title>
+     {% load static %}
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+    <link rel="icon" href="{% static 'assets/icon home 2.png' %}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     <style>
         h1{
@@ -19,6 +37,8 @@
         }
 
 
+
+
     </style>
 
 
@@ -28,6 +48,21 @@
 
 </head>
 <body>
+
+
+
+<a href="{% url 'gallery' %}">Gallery</a>
+<a href="{% url 'about' %}" >About us</a>
+
+
+
+
+
+
+
+
+
+
 
 
 <marquee behavior="" direction=""><h1>ShopDish App</h1></marquee>
