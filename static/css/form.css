@@ -1,0 +1,92 @@
+
+form {
+margin-left: 300px;
+margin-right: 200px;
+background-color: antiquewhite;
+    padding-left: 20px;
+    padding-right: 80px;
+    width: 300px;
+
+    padding-top: 30px;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+legend{
+    color: #006b1b;
+    font-size: 30px;
+}
+button{
+    background: #006b1b;
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+input[type=text],input[type=email],input[type=password]{
+
+border-radius: 5px;
+width: 350px;
+height: 30px;
+    border-color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
